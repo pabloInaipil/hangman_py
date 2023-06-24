@@ -1,0 +1,1 @@
+words =["Electricidad","Programacion","carbon","vendeta","padrino","eslabon","modular","sonido","Chile","libertad","codificacion","pelotudo","cuantico","rosa","manzana","rastreadores","troyanos","abandonado","fortuna","platzi","plaza","pais","ruleta"]
