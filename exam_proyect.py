@@ -25,7 +25,7 @@ def hangman():
     while len(word_letters) > 0 and lives >0:
         #letras usadas
         # ' '.join (['a', 'b', 'cd']) --> 'a b cd'
-        print('You have', lives, 'lives left and you have used these letters: ', ' '.join(user_letters))
+        print('Tu tienes', lives, 'las vidas que perdiste y las letras que haz usado: ', ' '.join(user_letters))
 
         # las letras tipeadas (ie W - R D)
         word_list = [letter if letter in user_letters else '-' for letter in word]
